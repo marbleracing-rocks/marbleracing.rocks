@@ -4,7 +4,7 @@ Hello! Welcome to the repository for the website of MarbleRacing.Rocks. This web
 
 This website is brought to you by volunteers of the International Marble Sports Commitee (IMC). We do this work for free because we love the sport of Marble Racing. Many of us are content creators, writers, and more! Please be patient with us, as we are all doing this in our freetime.
 
-**[If you are an IMC member joining us from the old website, please click here to join our member organization](https://github.com/marbleracing-rocks).
+**[If you are an IMC member joining us from the old website, please click here to join our member organization](https://github.com/marbleracing-rocks).**
 
 ## Installing
 
