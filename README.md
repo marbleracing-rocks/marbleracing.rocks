@@ -1,17 +1,12 @@
-# Gatsby Starter Ghost
+# MarbleRacing.Rocks
 
-A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
+Hello! Welcome to the repository for the website of MarbleRacing.Rocks. This website is dedicated to showcasing our partners on YouTube that expand the sport of Marble Racing for everyone to enjoy! 
 
-**Demo:** https://gatsby.ghost.org
+This website is brought to you by volunteers of the International Marble Sports Commitee (IMC). We do this work for free because we love the sport of Marble Racing. Many of us are content creators, writers, and more! Please be patient with us, as we are all doing this in our freetime.
 
-&nbsp;
+**[If you are an IMC member joining us from the old website, please click here to join our member organization](https://github.com/marbleracing-rocks).
 
-![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg)
-
-&nbsp;
-
-
-# Installing
+## Installing
 
 ```bash
 # With Gatsby CLI
@@ -32,7 +27,7 @@ yarn
 
 &nbsp;
 
-# Running
+## Running
 
 Start the development server. You now have a Gatsby site pulling content from headless Ghost.
 
@@ -44,29 +39,7 @@ By default, the starter will populate content from a default Ghost install locat
 
 To use your own install, edit the `.ghost.json` config file with your credentials. You can find your `contentApiKey` in the "Integrations" screen in Ghost Admin. The minimum required version for Ghost is `2.10.0` in order to use this starter without issues.
 
-&nbsp;
-
-# Deploying with Netlify
-
-The starter contains three config files specifically for deploying with Netlify. A `netlify.toml` file for build settings, a `/static/_headers` file with default security headers set for all routes, and `/static/_redirects` to set Netlify custom domain redirects.
-
-To deploy to your Netlify account, hit the button below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/)
-
-Content API Keys are generally not considered to be sensitive information, they exist so that they can be changed in the event of abuse; so most people commit it directly to their `.ghost.json` config file. If you prefer to keep this information out of your repository you can remove this config and set [Netlify ENV variables](https://www.netlify.com/docs/continuous-deployment/#build-environment-variables) for production builds instead.
-
-Once deployed, you can set up a [Ghost + Netlify Integration](https://docs.ghost.org/integrations/netlify/) to use deploy hooks from Ghost to trigger Netlify rebuilds. That way, any time data changes in Ghost, your site will rebuild on Netlify.
-
-&nbsp;
-
-# Optimising
-
-You can disable the default Ghost Handlebars Theme front-end by enabling the `Make this site private` flag within your Ghost settings. This enables password protection in front of the Ghost install and sets `<meta name="robots" content="noindex" />` so your Gatsby front-end becomes the source of truth for SEO.
-
-&nbsp;
-
-# Extra options
+## Extra options
 
 ```bash
 # Run a production build, locally
@@ -80,6 +53,10 @@ Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `
 
 &nbsp;
 
-# Copyright & License
+## Copyright & License
 
-Copyright (c) 2013-2019 Ghost Foundation - Released under the [MIT license](LICENSE).
+MarbleRacing.Rocks Copyright (c) 2013-2019 MarbleRacing.Rocks GitHub Organization.
+
+Gatsby Starter Ghost Copyright (c) 2013-2019 Ghost Foundation.
+
+Released under the [MIT license](LICENSE)
