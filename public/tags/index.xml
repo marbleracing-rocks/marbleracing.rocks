@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MarbleRacing.rocks</title>
+    <link>https://marbleracing.rocks/tags/</link>
+    <description>Recent content in Tags on MarbleRacing.rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 MarbleRacing.Rocks, created by James Kerrane.</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
+    
+	<atom:link href="https://marbleracing.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://marbleracing.rocks/tags/development/</link>
+      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>https://marbleracing.rocks/tags/demo/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://marbleracing.rocks/tags/image/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://marbleracing.rocks/tags/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/typography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://marbleracing.rocks/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://marbleracing.rocks/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://marbleracing.rocks/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://marbleracing.rocks/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://marbleracing.rocks/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://marbleracing.rocks/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
